@@ -19,8 +19,6 @@ You can import and use the quoteMe function in your JavaScript or TypeScript pro
 ### Example
 
 
-### Example in Markdown:
-
 ```javascript
 import { quoteMe } from 'quote-me-library';
 
