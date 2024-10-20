@@ -1,6 +1,6 @@
 {
   "name": "moody-quote-lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An ultralight quote generator",
   "main": "moody.js",
   "scripts": {
