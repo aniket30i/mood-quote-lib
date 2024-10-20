@@ -10,7 +10,7 @@ You can install the `quoteMe` package using npm:
 
 Or using Yarn:
 
-yarn add quote-me-library
+```yarn add quote-me-library```
 
 ## Usage 
 
